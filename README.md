@@ -1,5 +1,21 @@
 # 🌟 Goldtech Software Solutions
 
+# Goldtech Software Solutions
+
+
+[![GitHub](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username)
+[![Twitter](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/your_twitter_handle)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+
 **Innovating Digital Excellence – One Line of Code at a Time.**
 
 Welcome to **Goldtech Software Solutions**, a dynamic and future-driven software development agency offering custom tech solutions for businesses, startups, and entrepreneurs. Our goal is to craft intuitive, scalable, and secure software systems that drive value and accelerate digital transformation.
